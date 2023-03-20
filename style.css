@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 906px;
+    height: 530px;
+    background-color: #edf0f7;
+}
+
+.mtavari-konteineri{
+    width: 770px;
+    height: 442px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.mtavari-konteineri2{
+    width: 637.5px;
+    height: 370.98px;
+    margin-top: -410px;
+    margin-left: 80px;
+    display: flex;
+
+
+}
+
+.echo-photo{
+    width: 200.5px;
+    height: 370.98px;
+}
+
+.container3{
+    width: 527px;
+    height: 370.98px;
+    margin-left: 110px;
+}
+
+.h3-1{
+    font-weight: 500;
+    font-size: 48px;
+    color: #15181a;
+    margin-top: 10px;
+}
+
+.paragraph1{
+    color: #858997;
+    font-weight: 400px;
+    font-size: 18px;
+    margin-top: -43px;
+}
+.paragraph2{
+    font-weight: 400px;
+    font-size: 24px;
+    color: #858997;
+    margin-top: -10px;
+}
+.paragraph3{
+    color: #141821;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+.container4{
+    display: flex;
+}
+
+.img-color1{
+    width: 36px;
+    height: 36px;
+}
+
+.img-color2{
+    width: 36px;
+    height: 36px;
+    margin-left: 21px;
+}
+.img-color3{
+    width: 36px;
+    height: 36px;
+    margin-left: 20px;
+}
+
+.paragraph4{
+    font-weight: 400px;
+    font-size: 14px;
+    color: #141821;
+    margin-left: 7px;
+    margin-top: 10px;
+}
+
+.path{
+    width: 10px;
+    height: 8px;
+    margin-top: -27px;
+    margin-left: 13px;
+}
+
+.paragraph5{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #141821;
+}
+
+.container5{
+    display: flex;
+}
+
+.box1{
+    width: 99px;
+    height: 66px;
+    border-radius: 5px;
+    background: linear-gradient(180deg, #e33c7a 0%, #c036d0 100%);
+    text-align: center;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.box2{
+    width: 99px;
+    height: 66px;
+    border-radius: 5px;
+    border: 2px solid #c3c6d1;
+    margin-left: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    color: #141821;
+}
+.box3{
+    width: 99px;
+    height: 66px;
+    border-radius: 5px;
+    border: 2px solid #c3c6d1;
+    margin-left: 15px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    color: #141821;
+}
